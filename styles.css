@@ -459,4 +459,7 @@ dialog #cart{
         right:auto;
         margin-left: -52px;
     }
+    .product_menu{
+        padding: 0;
+    }
 }
