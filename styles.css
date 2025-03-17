@@ -465,4 +465,7 @@ dialog #cart{
     .contact-right form{
         width: 80%;
     }
+    .contact-right .name-fields{
+        width: 80%;
+    }
 }
