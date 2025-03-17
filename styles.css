@@ -455,6 +455,8 @@ dialog #cart{
     }
     .mobile_menu_icon{
         display: flex;
+        right:auto
+
     }
     
 }
