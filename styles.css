@@ -180,6 +180,7 @@ nav .sec_two{
 .product_menu{
     margin: 0 auto;
     padding: 3rem 2rem;
+    width: 100%;
 }
 .product_menu h2{
     font-size: 3.5rem;
