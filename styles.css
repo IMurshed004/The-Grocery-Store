@@ -462,4 +462,7 @@ dialog #cart{
     .product_menu{
         padding: 0;
     }
+    .contact-right form{
+        width: 80%;
+    }
 }
